@@ -47,7 +47,7 @@
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=svelte, react, angular, tailwind" alt="Frontend technologies" />
 </p>
 
 ### Data & Infrastructure
