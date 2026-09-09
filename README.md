@@ -77,24 +77,3 @@ Real-time polling platform designed for interactive audience participation and l
 [View repository →](https://github.com/d1ogogomes/FlashPoll)
 
 <br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=d1ogogomes&show_icons=true&hide_border=true&theme=tokyonight"
-    alt="Diogo's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=d1ogogomes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css"
-    alt="Top languages"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <b>Open to software engineering opportunities.</b>
-</p>
