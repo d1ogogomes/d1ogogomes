@@ -17,7 +17,7 @@
 - ⚙️ Interested in **backend engineering, distributed systems and data-intensive applications**
 - 🤖 Passionate about **AI** - LLMs, applied machine learning and building AI-powered features into real products
 - 🚀 I enjoy building projects that go beyond basic CRUD applications
-- 🌍 Based in **Portugal** — open to remote and relocation
+- 🌍 Based in **Portugal**
 ## 🛠 Tech Stack
  
 **Languages**
