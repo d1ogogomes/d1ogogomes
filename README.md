@@ -1,72 +1,100 @@
 <h1 align="center">Hi 👋, I'm Diogo Gomes</h1>
- 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate;Backend+%26+Full-Stack+Developer;Java+%7C+TypeScript+%7C+Python+%7C+SQL;Spring+Boot+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Passionate+about+AI+%26+Machine+Learning;Open+to+Junior+Software+Engineering+Roles" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Graduate;Backend+%26+Full-Stack+Developer;Java+%7C+TypeScript+%7C+Python+%7C+SQL;Spring+Boot+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Building+Distributed+%26+Real-Time+Systems"
+    alt="Typing SVG"
+  />
 </p>
+
 <p align="center">
   Computer Engineering graduate from Portugal focused on backend, full-stack and data-driven software development.
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d1ogogomes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=d1ogogomes&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views"
+  />
 </p>
----
- 
+
+<br>
+
 ## 👨‍💻 About Me
- 
-- 🎓 BSc in **Computer Engineering** 
+
+- 🎓 BSc in **Computer Engineering**
 - ⚙️ Interested in **backend engineering, distributed systems and data-intensive applications**
-- 🤖 Passionate about **AI** - LLMs, applied machine learning and building AI-powered features into real products
-- 🚀 I enjoy building projects that go beyond basic CRUD applications
+- 🤖 Interested in **AI, LLMs and applied machine learning**
+- 🚀 I enjoy building complete systems that go beyond basic CRUD applications
 - 🌍 Based in **Portugal**
-## 🛠 Tech Stack
- 
-**Languages**
- 
+
+<br>
+
+## 🛠️ Tech Stack
+
+### Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css" alt="Languages" />
 </p>
-**Backend & APIs**
- 
+
+### Backend & APIs
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,graphql" alt="Backend technologies" />
 </p>
-**Frontend**
- 
+
+### Frontend
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,tailwind" />
+  <img src="https://skillicons.dev/icons?i=svelte,tailwind" alt="Frontend technologies" />
 </p>
-**Data & Infrastructure**
- 
+
+### Data & Infrastructure
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,maven,postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,maven,postman" alt="Data and infrastructure tools" />
 </p>
+
+<br>
+
 ## 🚀 Featured Projects
- 
+
 ### 📈 Market Data Pipeline
- 
-Distributed market-data platform composed of **7 containerized services across 3 languages**.
-Web Scraping → XML Validation → PostgreSQL → REST / GraphQL / gRPC
- 
-`Java` `Python` `PostgreSQL` `Docker` `gRPC` `GraphQL`
- 
+
+Distributed market-data platform composed of **7 containerized services across 3 languages**, covering the pipeline from data ingestion and XML validation to database storage and multiple API interfaces.
+
+`Java` `Python` `PostgreSQL` `Docker` `REST` `GraphQL` `gRPC`
+
 [View repository →](https://github.com/d1ogogomes/market-data-pipeline)
- 
+
 ### 📊 FlashPoll
- 
-Real-time polling platform designed for interactive audience participation.
- 
+
+Real-time polling platform designed for interactive audience participation and live result updates.
+
 `Svelte` `TypeScript` `FastAPI` `PostgreSQL` `Supabase Realtime`
- 
-[View repository →](https://github.com/d1ogogomes/flashpoll)
- 
+
+[View repository →](https://github.com/d1ogogomes/FlashPoll)
+
+<br>
+
 ## 📊 GitHub Stats
- 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d1ogogomes&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1ogogomes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css" alt="Top languages" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=d1ogogomes&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="Diogo's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=d1ogogomes&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css"
+    alt="Top languages"
+  />
 </p>
----
- 
+
+<br>
+
 <p align="center">
   <b>Open to software engineering opportunities.</b>
 </p>
