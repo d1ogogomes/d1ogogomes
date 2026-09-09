@@ -1,12 +1,47 @@
-### Hi there, I'm Diogo 👋
+<h1 align="center">Hi 👋, I'm Diogo Gomes</h1>
 
-I'm an aspiring software developer studying Computer Engineering. Here are some of the languages I work with:
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Graduate;Backend+%26+Full-Stack+Developer;Java+%7C+Python+%7C+PostgreSQL+%7C+Docker;Building+real-world+software+systems"
+    alt="Typing SVG"
+  />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-%23F7A400?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%2337769E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
+<p align="center">
+  Computer Engineering graduate from Portugal focused on backend, full-stack and data-driven software development.
+</p>
 
-Feel free to connect with me and check out my projects! 🚀
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BSc in **Computer Engineering**
+- ⚙️ Interested in **backend engineering, distributed systems and data-intensive applications**
+- 🚀 I enjoy building projects that go beyond basic CRUD applications
+- 🌍 Based in **Portugal** — open to remote work and relocation
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,docker,svelte,git,github,maven" />
+</p>
+
+## 🚀 Featured Projects
+
+### 📈 Market Data Pipeline
+Distributed market-data platform composed of **7 containerized services across 3 languages**.
+
+`Web Scraping` → `XML Validation` → `PostgreSQL` → `REST / GraphQL / gRPC`
+
+[View repository →](https://github.com/d1ogogomes/market-data-pipeline)
+
+### 📊 FlashPoll
+Real-time polling platform designed for interactive audience participation.
+
+`Svelte` · `FastAPI` · `PostgreSQL` · `Supabase Realtime`
+
+---
+
+<p align="center">
+  <b>Open to junior software engineering opportunities.</b>
+</p>
