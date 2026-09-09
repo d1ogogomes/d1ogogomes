@@ -57,23 +57,3 @@
 </p>
 
 <br>
-
-## 🚀 Featured Projects
-
-### 📈 Market Data Pipeline
-
-Distributed market-data platform composed of **7 containerized services across 3 languages**, covering the pipeline from data ingestion and XML validation to database storage and multiple API interfaces.
-
-`Java` `Python` `PostgreSQL` `Docker` `REST` `GraphQL` `gRPC`
-
-[View repository →](https://github.com/d1ogogomes/market-data-pipeline)
-
-### 📊 FlashPoll
-
-Real-time polling platform designed for interactive audience participation and live result updates.
-
-`Svelte` `TypeScript` `FastAPI` `PostgreSQL` `Supabase Realtime`
-
-[View repository →](https://github.com/d1ogogomes/FlashPoll)
-
-<br>
